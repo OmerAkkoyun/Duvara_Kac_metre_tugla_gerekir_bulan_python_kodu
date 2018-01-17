@@ -1,7 +1,7 @@
-a= input("duvar dikey kaç metre=")
-b= input("duvar yatay kaç metre=")
+a= input("duvar dikey kaÃ§ metre=")
+b= input("duvar yatay kaÃ§ metre=")
 
 metre = (float(a)*float(b))
 adet  = (float(a)*float(b)*float(25))
-print (round(float(metre)), "Metre Tuğla Gerekli" )
-print  (round(float(adet)),"Adet Tuğla Gerkli")
+print (round(float(metre)), "Metre TuÄŸla Gerekli" )
+print  (round(float(adet)),"Adet TuÄŸla Gerekli")
